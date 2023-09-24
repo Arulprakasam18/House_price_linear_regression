@@ -1,5 +1,5 @@
 ## House_price_linear_regression
-# Project Report: Linear Regression Machine Learning Project for House Price Prediction
+# Linear Regression Machine Learning Project for House Price Prediction
 
 ## Importing Libraries
 In this project, we imported the necessary Python libraries, including pandas, numpy, seaborn, and matplotlib, to help us with data manipulation, visualization, and analysis.
